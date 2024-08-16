@@ -16,7 +16,6 @@
 
 <p align="center">
     <img src="/public/img/projeto/print_1.png" alt="Imagem do Projeto" width="400px">
-    <img src="/public/img/projeto/print_1.png" alt="Imagem do Projeto" width="400px">
 </p>
 
 <h2 id="about">📌 Sobre</h2>
